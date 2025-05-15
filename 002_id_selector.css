@@ -1,0 +1,56 @@
+body {
+    background-color: lightgray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1.4;
+
+}
+
+h1 {
+    color: darkblue;
+    text-decoration: underline;
+    text-align: center;
+    
+    margin-bottom: 30px;
+}
+
+#Container {
+    font-size: 20px;
+    font-weight: 600;
+    padding: 20px;
+}
+
+#introduction {
+    background-color: blanchedalmond;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+#Growth_journeys {
+    background-color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+#Daily_habits {
+    background-color: cornflowerblue;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+#inspirational_quotes {
+    background-color: bisque;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+#Conclusion {
+    background-color: cadetblue;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
