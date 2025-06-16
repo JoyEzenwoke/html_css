@@ -1,0 +1,12 @@
+body{
+    background-color: grey;
+}
+h1{
+    text-align: center;
+    text-decoration: dotted;
+}
+ul{
+    text-size-adjust: 30px;
+    text-spacing-trim: 30px;
+
+}

@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    background-color: aquamarine;
+
+}
+h1 {
+    text-align: center;
+    border: 10px;
+}
+.container{
+    border: 6px solid rgb(168, 54, 54);
+    display: flex;
+    /*flex-direction: column;*/ 
+    /*flex-wrap: wrap;*/
+    height: 100px;
+    flex-flow: wrap-reverse;
+}
+.flex-box{
+    color: darkgray;
+    font-size: 2.5rem;
+    padding: 2rem;
+    text-align: center;
+}
+.item-1{
+    background-color:  blue;
+}
+.item-2{
+    background-color: cadetblue;
+}
+.item-3{
+    background-color: chocolate;
+}
+.item-4{
+    background-color: yellowgreen;
+}
+.item-5{
+    background-color: violet;
+}
+.item-6{
+    background-color: tomato;
+}
+.item-7{
+    background-color: thistle;
+}
+.item-8{
+    background-color: teal;
+    
+}
+.item-9{
+    background-color:saddlebrown ;
+}
